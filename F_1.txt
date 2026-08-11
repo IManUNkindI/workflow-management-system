@@ -8,11 +8,11 @@ FASE 1 — ANÁLISIS
 
 1. Flujo de trabajo
 
-	                CLIENTE
-                     	   │
-                     	   ▼
-                       COTIZACIÓN
-                    	   │
+				CLIENTE
+				|
+                		▼
+                     		COTIZACIÓN
+                    	   	|
              ┌─────────┴─────────┐
              │                          │
          RECHAZADA                   ACEPTADA
