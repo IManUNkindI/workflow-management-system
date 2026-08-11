@@ -74,3 +74,35 @@ Diseño
 
 2. Roles y departamentos
 
+Departamento: Representa dónde trabaja una persona.
+
+	Comercial
+	Diseño
+	Fabricación
+	Inventario
+	Contabilidad
+	Gerencia
+	Administración
+
+Rol: Representa qué puede hacer dentro del sistema.
+
+	Administrador
+	Gerente
+	Comercial
+	Diseñador
+	Fabricante
+	Inventario
+	Contabilidad
+
+Esto es importante porque posteriormente podríamos tener:
+
+	Usuario: Carlos
+	Departamento: Diseño
+	Rol: Diseñador
+
+	Ó
+
+	Usuario: Andrés
+	Departamento: Diseño
+	Rol: Diseñador + Supervisor (Pudiendo asignar más permisos independientemente del departamento)
+
